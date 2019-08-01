@@ -30,6 +30,7 @@ public class LoginPageTest extends TestBase{
 	public void loginPageTitleTest() {
 		String str=loginpage.getTitle();
 		System.out.println(str);
+		System.out.println("excute test case");
 		//Assert.assertEquals(str,"CRMPRO  - CRM software for customer relationship management, sales, and support.");
 	}
 	
