@@ -1,4 +1,4 @@
-/*package com.crm.qa.testcase;
+package com.crm.qa.testcase;
 
 import java.io.IOException;
 
@@ -52,4 +52,3 @@ public class LoginPageTest extends TestBase{
 	}
 
 }
-*/
